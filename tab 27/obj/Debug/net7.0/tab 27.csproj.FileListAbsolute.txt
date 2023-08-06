@@ -1,0 +1,15 @@
+/workspaces/ex-27/tab 27/bin/Debug/net7.0/tab 27
+/workspaces/ex-27/tab 27/bin/Debug/net7.0/tab 27.deps.json
+/workspaces/ex-27/tab 27/bin/Debug/net7.0/tab 27.runtimeconfig.json
+/workspaces/ex-27/tab 27/bin/Debug/net7.0/tab 27.dll
+/workspaces/ex-27/tab 27/bin/Debug/net7.0/tab 27.pdb
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/tab 27.csproj.AssemblyReference.cache
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/tab 27.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/tab 27.AssemblyInfoInputs.cache
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/tab 27.AssemblyInfo.cs
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/tab 27.csproj.CoreCompileInputs.cache
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/tab 27.dll
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/refint/tab 27.dll
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/tab 27.pdb
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/tab 27.genruntimeconfig.cache
+/workspaces/ex-27/tab 27/obj/Debug/net7.0/ref/tab 27.dll
